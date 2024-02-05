@@ -14,7 +14,6 @@ def decidir_jogar_tenis(aspecto, umidade, vento):
     else:
         return "N"
 
-
 aspecto_input = input()
 umidade_input = input()
 vento_input = input()
